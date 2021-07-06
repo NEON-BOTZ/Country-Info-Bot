@@ -14,9 +14,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 FayasNoushad = Client(
     "Country Info Bot",
-    bot_token = 1823406394:AAFF4R9ZLr21lE7SyuUKk7o-BmkpTTFE7Jg,
-    api_id = 3343389,
-    api_hash = 3a20ed9427d8b5c50577c99212e9380b
+    bot_token = "1823406394:AAFF4R9ZLr21lE7SyuUKk7o-BmkpTTFE7Jg",
+    api_id = "3343389",
+    api_hash = "3a20ed9427d8b5c50577c99212e9380b"
 )
 
 START_TEXT = """
